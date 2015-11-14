@@ -32,3 +32,7 @@ boomersparks/
 ¦	+-- event.php
 +-- plugin.php
 ```
+
+## Live Example
+
+http://www.boomersparks.com/irvine/hours
